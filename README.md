@@ -72,7 +72,7 @@ Questo progetto implementa un calcolatore del Lotto Economico di Ordinazione (EO
    ```
 
    oppure é possibile utilizzare il comando make.sh per buildare in automatico l''applicativo e farlo partire
-   Avverrá in automatico lo spostamento e la creazione delle cartelle di lavoro, verrá creato anche in automatico un database nuovo. A cui bisognerá aggiungere i dati manualmente attraverso l''applicativo.
+   Avverrá in automatico lo spostamento e la creazione delle cartelle di lavoro, verrá creato anche un database nuovo. A cui bisognerá aggiungere i dati manualmente attraverso l''applicativo.
    (il database con i dati per testare i tre anni si trova all''interno della cartella backend [eoq.db])
 
 
